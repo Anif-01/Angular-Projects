@@ -1,0 +1,17 @@
+input {
+  max-width: 400px;
+}
+.card {
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.bg-card{
+  background-color: rgb(167, 92, 237);
+  padding: 15px;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
